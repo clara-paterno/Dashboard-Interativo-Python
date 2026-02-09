@@ -82,9 +82,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+---
+
 ## 🔗 Contato
 - 💼 LinkedIn: https://www.linkedin.com/in/maria-clara-paterno-maia-9450b73aa
-- 🐙 GitHub: https://github.com/clara-paterno
+- 🐙 e-mail: mclarapaterno@gmail.com
 
 
 
