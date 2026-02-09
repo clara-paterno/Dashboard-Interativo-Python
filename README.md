@@ -49,7 +49,15 @@ Este projeto tem caráter educacional e representa uma etapa inicial da minha jo
 
 ## 🖼️ Screenshots do Dashboard
 
-*(Em breve)*
+### Visão geral do dashboard
+![Dashboard - Visão geral](images/image1.png)
+
+### Médias salariais por senioridade
+![Dashboard - Médias salariais](images/image2.png)
+
+### Comparação entre níveis
+![Dashboard - Comparação](images/image3.png)
+
 
 ---
 
