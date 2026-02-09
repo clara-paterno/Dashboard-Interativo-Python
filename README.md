@@ -94,7 +94,7 @@ streamlit run app.py
 
 ## 🔗 Contato
 - 💼 LinkedIn: https://www.linkedin.com/in/maria-clara-paterno-maia-9450b73aa
-- 🐙 e-mail: mclarapaterno@gmail.com
+- 🐙 e-mail: mclara.paterno@gmail.com
 
 
 
