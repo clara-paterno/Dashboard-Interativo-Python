@@ -58,6 +58,17 @@ Este projeto tem caráter educacional e representa uma etapa inicial da minha jo
 ### Comparação entre níveis
 ![Dashboard - Comparação](images/image3.png)
 
+---
+
+## 📚 Principais aprendizados
+
+Durante o desenvolvimento deste projeto tive contato com:
+
+- manipulação de dados com Pandas;
+- criação de dashboards interativos;
+- visualização de dados com Plotly;
+- publicação de aplicações utilizando Streamlit;
+- organização de projetos em Python utilizando Git.
 
 ---
 
