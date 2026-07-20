@@ -1,111 +1,109 @@
-# 📊 Dashboard Interativo de Médias Salariais
-## 📌 por Nível de Senioridade — Projeto de Imersão em Dados
+# 📊 Salary Analytics Dashboard
 
-🔗 **Acesse o dashboard online**  
+An interactive dashboard built with Python and Streamlit to explore software developer salary data through dynamic visualizations.
+
+🔗 **Live Demo**  
 👉 https://dashboard-interativo-python-imersao-alura-2025.streamlit.app/
 
-⚠️ O app pode hibernar quando fica um tempo sem acessos. Se isso acontecer, basta recarregar a página.
+⚠️ The application may enter sleep mode after a period of inactivity. If this happens, simply refresh the page.
 
 ---
 
-## 📈 Sobre o projeto
+## 📖 Overview
 
-Este projeto consiste em um **dashboard interativo** que apresenta médias salariais de desenvolvedores de software, organizadas por **nível de senioridade**.
+Developed during **Alura's Python Data Immersion** program, this project provides an interactive dashboard for exploring software developer salary data by seniority level.
 
-Ele foi desenvolvido durante uma **imersão em dados com Python da Alura**, com foco em aprendizado prático e exploração das principais ferramentas da área de dados.
-
----
-
-## 🎯 Objetivo
-
-Os principais objetivos do projeto foram:
-- praticar análise e tratamento de dados com Python
-- aprender a criar visualizações interativas
-- desenvolver um dashboard funcional com Streamlit
-- dar os primeiros passos na área de dados e analytics
-
-Este projeto tem caráter educacional e representa uma etapa inicial da minha jornada na área.
+Using dynamic visualizations, users can compare salary trends across different career levels through a simple and intuitive interface.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## ✨ Features
+
+- Interactive salary analysis by seniority level
+- Comparison between different career levels
+- Dynamic data visualizations
+- Simple and intuitive user interface
+- Interactive dashboard built with Streamlit
+
+---
+
+## 🛠️ Tech Stack
 
 - Python
-- Pandas — manipulação e análise de dados
-- Plotly — gráficos interativos
-- Streamlit — criação e publicação do dashboard
-- Git & GitHub — versionamento do projeto
+- Pandas — data manipulation and analysis
+- Plotly — interactive data visualizations
+- Streamlit — dashboard development and deployment
+- Git & GitHub — version control
 
 ---
 
-## 📊 Funcionalidades
+## 🖼️ Dashboard Screenshots
 
-- Visualização das médias salariais por senioridade
-- Comparação entre diferentes níveis de carreira
-- Interface simples e interativa
-- Gráficos dinâmicos para facilitar a análise dos dados
+### Dashboard Overview
+![Dashboard Overview](images/image1.png)
 
----
+### Salary Analysis by Seniority
+![Salary Analysis](images/image2.png)
 
-## 🖼️ Screenshots do Dashboard
-
-### Visão geral do dashboard
-![Dashboard - Visão geral](images/image1.png)
-
-### Médias salariais por senioridade
-![Dashboard - Médias salariais](images/image2.png)
-
-### Comparação entre níveis
-![Dashboard - Comparação](images/image3.png)
+### Career Level Comparison
+![Career Level Comparison](images/image3.png)
 
 ---
 
-## 📚 Principais aprendizados
+## 📚 What I Learned
 
-Durante o desenvolvimento deste projeto tive contato com:
+Throughout this project, I gained practical experience with:
 
-- manipulação de dados com Pandas;
-- criação de dashboards interativos;
-- visualização de dados com Plotly;
-- publicação de aplicações utilizando Streamlit;
-- organização de projetos em Python utilizando Git.
+- Data manipulation and analysis using Pandas
+- Building interactive dashboards with Streamlit
+- Creating dynamic visualizations with Plotly
+- Organizing Python projects with Git and GitHub
+- Deploying web applications
 
 ---
 
-## 🚀 Como executar localmente
+## 🚀 Running Locally
 
-### Clone o repositório
+### Clone the repository
+
 ```bash
-git clone https://github.com/clara-paterno/Dashboard-Interativo-Python.git
+git clone https://github.com/clara-paterno/salary-analytics-dashboard.git
 ```
 
-### Entre na pasta do projeto
+### Navigate to the project directory
+
 ```bash
-cd Dashboard-Interativo-Python 
+cd salary-analytics-dashboard
 ```
 
-### Crie e ative o ambiente virtual
+### Create and activate a virtual environment
+
 ```bash
-python -m venv 
-.venv .venv\Scripts\Activate (Windows) 
-source .venv/bin/activate (Mac/Linux) 
+python -m venv .venv
+
+# Windows
+.venv\Scripts\activate
+
+# macOS / Linux
+source .venv/bin/activate
 ```
 
-### Instale as dependências
+### Install the dependencies
+
 ```bash
-pip install -r requirements.txt 
+pip install -r requirements.txt
 ```
 
-### Execute o app
+### Run the application
+
 ```bash
 streamlit run app.py
 ```
 
 ---
 
-## 🔗 Contato
+## 📬 Contact
+
 - 💼 LinkedIn: https://www.linkedin.com/in/maria-clara-paterno-maia-9450b73aa
-- 🐙 e-mail: mclara.paterno@gmail.com
-
-
+- 📧 Email: mclara.paterno@gmail.com
 
